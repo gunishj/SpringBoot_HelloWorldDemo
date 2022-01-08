@@ -4,7 +4,7 @@ Design a Hello world spring boot application
 ## Dependencies
 spring web
 
-##Steps taken
+## Steps taken
 1. we will open https://start.spring.io/
 
 ![Alt text](images/spring_io_opening_page.JPG?raw=true "Title")
